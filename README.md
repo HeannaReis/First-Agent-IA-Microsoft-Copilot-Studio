@@ -37,10 +37,10 @@ Este agente é criado com base em um modelo pré-existente no Copilot Studio. El
 *Figure 1: Exemplo de Modelo de Perguntas e Respostas.*
 
 ![base_model 2](assets/base_models/prompts_iniciais.png)
-*Figure 1: Configurando os parametros do Modelo.*
+*Figure 2: Configurando os parametros do Modelo.*
 
 ![base_model 3](assets/base_models/csv_file.png)
-*Figure 1: Anexando base de conhecimento em arquivo csv..*
+*Figure 3: Anexando base de conhecimento em arquivo csv..*
 
 
 
@@ -66,16 +66,16 @@ Este agente é criado com base em descrições fornecidas pelo usuário e utiliz
 *Figure 1:  Tela de inicio da conversa com a IA*
 
 ![base_ia 2](assets/base_ia/create_1.png)
-*Figure 1: Aprensentação e configuração de nome.*
+*Figure 2: Aprensentação e configuração de nome.*
 
 ![base_ia 3](assets/base_ia/create_2.png)
-*Figure 1: Escolha do nome.*
+*Figure 3: Escolha do nome.*
 
 ![base_ia 4](assets/base_ia/create_3.png)
-*Figure 1: Definição de tipo de interação..*
+*Figure 4: Definição de tipo de interação..*
 
 ![base_ia 5](assets/base_ia/create_4.png)
-*Figure 1: Modelo Configurado via chat..*
+*Figure 5: Modelo Configurado via chat..*
 
 
 ## Copilot em branco
@@ -98,13 +98,13 @@ Este agente é criado a partir de um template em branco, permitindo total person
 *Figure 1: Iniciando criação do agente do zero...*
 
 ![zero_agent 2](assets/copilot_zero/agent_zero_2.png)
-*Figure 1: Configuração via chat...*
+*Figure 2: Configuração via chat...*
 
 ![zero_agent 3](assets/copilot_zero/agent_zero_3.png)
-*Figure 1: Adicionando contexto para direcionar melhores respostas...*
+*Figure 3: Adicionando contexto para direcionar melhores respostas...*
 
 ![zero_agent 3](assets/copilot_zero/agent_zero_4.png)
-*Figure 1: Exemplo de uso do Agente...*
+*Figure 4: Exemplo de uso do Agente...*
 
 
 ### Agents Criados e Publicados 
