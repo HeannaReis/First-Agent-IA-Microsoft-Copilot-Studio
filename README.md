@@ -1,5 +1,9 @@
 # Documentação do Projeto: Criação de Agentes no Copilot Studio
 
+### Certificado
+![certificado 1](assets/GVWFP9WM.jpg)
+*Figure 1: Certificado de conclusão do módulo.*
+
 ## Descrição
 
 Este repositório contém a documentação para a criação de três tipos de agentes no Copilot Studio:
