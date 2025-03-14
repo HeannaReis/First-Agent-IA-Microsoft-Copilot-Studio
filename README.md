@@ -93,10 +93,28 @@ Este agente é criado a partir de um template em branco, permitindo total person
 5. Configure as opções iniciais conforme necessário.
 6. Clique em "Criar" para finalizar a criação do Copilot.
 
+### Exemplo de Criação
+![zero_agent 1](assets/copilot_zero/agent_zero_1.png)
+*Figure 1: Iniciando criação do agente do zero...*
+
+![zero_agent 2](assets/copilot_zero/agent_zero_2.png)
+*Figure 1: Configuração via chat...*
+
+![zero_agent 3](assets/copilot_zero/agent_zero_3.png)
+*Figure 1: Adicionando contexto para direcionar melhores respostas...*
+
+![zero_agent 3](assets/copilot_zero/agent_zero_4.png)
+*Figure 1: Exemplo de uso do Agente...*
+
+
+### Agents Criados e Publicados 
+![zero_agent 3](assets/home_agents.png)
+*Figure 1: Exemplo de uso do Agente...*
+
 ## Como Contribuir
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [MIT License](https://github.com/HeannaReis/First-Agent-IA-Microsoft-Copilot-Studio/blob/main/LICENSE)LICENSE para mais detalhes.
