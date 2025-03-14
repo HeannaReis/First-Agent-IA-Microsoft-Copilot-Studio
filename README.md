@@ -61,20 +61,21 @@ Este agente é criado com base em descrições fornecidas pelo usuário e utiliz
 7. Clique em "Criar" para finalizar a criação do Copilot.
 
 ### Exemplo de Criação
-![base_ia 1](assets/base_ia/create_1.png)
-*Figure 1: Exemplo de Modelo de Perguntas e Respostas.*
 
-![base_ia 2](assets/base_ia/create_2.png)
-*Figure 1: Configurando os parametros do Modelo.*
+![base_ia 1](assets/base_ia/home_create.png)
+*Figure 1:  Tela de inicio da conversa com a IA*
 
-![base_ia 3](assets/base_ia/create_3.png)
-*Figure 1: Anexando base de conhecimento em arquivo csv..*
+![base_ia 2](assets/base_ia/create_1.png)
+*Figure 1: Aprensentação e configuração de nome.*
 
-![base_ia 4](assets/base_ia/create_4.png)
-*Figure 1: Anexando base de conhecimento em arquivo csv..*
+![base_ia 3](assets/base_ia/create_2.png)
+*Figure 1: Escolha do nome.*
 
-![base_ia 5](assets/base_ia/home_create.png)
-*Figure 1:  Anexando base de conhecimento em arquivo csv..*
+![base_ia 4](assets/base_ia/create_3.png)
+*Figure 1: Definição de tipo de interação..*
+
+![base_ia 5](assets/base_ia/create_4.png)
+*Figure 1: Modelo Configurado via chat..*
 
 
 ## Copilot em branco
